@@ -1,0 +1,4 @@
+#-*- mode: mandoku-view; -*-
+#+TITLE: 諸佛心印陀羅尼經
+#+DATE: 2015-08-30 20:25:46.615665
+#+PROPERTY: JUAN 0
